@@ -1,7 +1,7 @@
 ######################################################################
 #This script runs the third party software through perl, and uses 10% noise 
 #to produce 20 variable files from intitial input file
-#
+##
 #Written by Rajesh K Bawa and Sandesh Shreshta
 ######################################################################
 
