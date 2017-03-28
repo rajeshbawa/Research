@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-
+##script to reterieve sequences using sequence ID or genebank ID
 use warnings;
 use strict;
 
