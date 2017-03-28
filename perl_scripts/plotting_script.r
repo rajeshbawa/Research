@@ -1,6 +1,6 @@
 #This makes the graph including the initial file, so 21 plots in total
 #if one tends to see the graphs individually and not in one jpeg file, one should comment out line 21, 23
-#set working directory
+##set working directory
 setwd("C:\\Users\\Rajesh\\Desktop\\Spring 2013\\Perl-CS5046")
 
 #reading one file to get the time data, which remains same among all the files 
