@@ -1,5 +1,6 @@
 #!usr/bin/perl -w
- 
+
+#split sequences after reterieving them from genebank
 use strict;
 use warnings;
  
