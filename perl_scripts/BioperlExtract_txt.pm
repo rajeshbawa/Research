@@ -35,7 +35,7 @@ package Bio::SeqUtils;
 use vars qw(%ONECODE %THREECODE); #predeclaring of global variables
 use strict;
 use Carp;
-
+##
 use base qw(Bio::Root::Root);
 # new inherited from RootI
 
