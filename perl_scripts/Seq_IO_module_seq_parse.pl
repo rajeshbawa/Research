@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-# This script describes the use of SEQIO module of Bioperl, and covers most important features of the module
+##This script describes the use of SEQIO module of Bioperl, and covers most important features of the module
 use warnings;
 use strict;
 
