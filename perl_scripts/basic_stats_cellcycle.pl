@@ -3,7 +3,7 @@
 ######################################################################
 #This script generates a pdf file, printing name of user, time, when 
 #report was generated, some cell cycle parameters, and a plot of 21 files
-#
+##
 #Written by Rajesh K Bawa and Sandesh Shreshta
 ######################################################################
 
